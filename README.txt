@@ -1,4 +1,10 @@
-Instruções:
+# Funcionalidade
 
-1. Conte a quantidade de pixels verdes.
-2. A imagem possui uma mensagem escondida, descubra qual a mensagem.
+1. Contar a quantidade de pixels verdes em uma imagem
+
+# Foi utilizado
+jupyter<br>
+python<br>
+NumPy e matplotlib
+
+
